@@ -5,10 +5,10 @@ Este projeto foi desenvolvido ao longo de Projeto I e Projeto II, dividindo-se e
 - Levantamento de requisitos
 Colocar texto aqui 
 
-- [x] Finish my changes
-- [ ] Finish my changes
-- [ ] Finish my changes
-- [ ] Finish my changes
+  - [x] Finish my changes
+  - [ ] Finish my changes
+  - [ ] Finish my changes
+  - [ ] Finish my changes
 
 - Diagramas 
 
