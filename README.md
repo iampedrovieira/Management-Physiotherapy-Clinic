@@ -13,7 +13,7 @@ Este projeto foi desenvolvido ao longo de Projeto I e Projeto II, dividindo-se e
 
   - Diagramas
 
-  -Base de dados
+  - Base de dados
     ewqeqeqwe
 
     - [x] Finish my changes
@@ -39,7 +39,9 @@ Este projeto foi desenvolvido ao longo de Projeto I e Projeto II, dividindo-se e
   
     - Pedro Vieira
     - Pedro Bragança
+    
   - 2º Etapa
+  
     - Pedro Vieira
     - José Ferreira
   
