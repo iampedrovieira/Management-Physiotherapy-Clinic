@@ -1,17 +1,13 @@
 # Management-Physiotherapy-Clinic
 
   Este projeto foi desenvolvido ao longo de Projeto I e Projeto II, dividindo-se em duas partes. 
-  Na primeira parte, foi feito todo o levantamento de requisitos de um determinado negocio, neste caso uma clinica de fisioterapia, e posteriormente foi feito uma base de dados em Oracle SQL de modo a satisfazer todas as necessidades. 
+  Na primeira parte, foi feito todo o levantamento de requisitos de um determinado negocio, neste caso uma clinica de fisioterapia, bem como toda a modelação do software em UML, com recurso a diagramas de casos de uso, casos de uso, contratos, diagramas de comunicação e diagrama de classes.Apos estas etapas foi feito uma base de dados desde dos modelos de Entidades e Relacionamentos até a criação da mesma em Oracle SQL.
   Na segunda fase do projeto foi fazer o software desenhado anteriormente. O software foi desenvolvido em java, onde se utilizou java FX para desenvolver o UI na versão desktop, e java Web Spring MVC para o desenvolvimento da aplicação Web.
 
   - Levantamento de requisitos
 
-    Colocar texto aqui  sobre...
-
-    - [x] Finish my changes
-    - [ ] Finish my changes
-    - [ ] Finish my changes
-    - [ ] Finish my changes
+    Nesta etapa aporou-se todas as necessidades do cliente, e definiu-se de forma abstrata o modo com as mesmas se ia processar.
+    
 
   - Diagramas
 
