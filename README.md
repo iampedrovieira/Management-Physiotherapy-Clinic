@@ -78,8 +78,8 @@ Colocar aqui umas imagens dos resultados finais
       - [ ] ...
 - Relatorios
 
-  - [1º Etapa] (https://github.com/user/repo/blob/branch/other_file.md)
-  - [2ª Etapa] (https://github.com/user/repo/blob/branch/other_file.md)
+  - [1º Etapa](https://github.com/user/repo/blob/branch/other_file.md)
+  - [2ª Etapa](https://github.com/user/repo/blob/branch/other_file.md)
 - Avaliação 
 
   - 1º Etapa [17]
