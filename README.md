@@ -1,5 +1,7 @@
 # Physiotherapy-Clinic-Management
 
+Colocar aqui umas imagens dos resultados finais
+
   Este projeto foi desenvolvido ao longo de Projeto I e Projeto II, dividindo-se em duas partes. 
   Na primeira parte, foi feito todo o levantamento de requisitos de um determinado negocio, neste caso uma clinica de fisioterapia, bem como toda a modelação do software em UML, com recurso a diagramas de casos de uso, casos de uso, contratos, diagramas de comunicação e diagrama de classes.Apos estas etapas foi feito uma base de dados desde dos modelos de Entidades e Relacionamentos até a criação da mesma em Oracle SQL.
   Na segunda fase do projeto foi fazer o software desenhado anteriormente. O software foi desenvolvido em java, onde se utilizou java FX para desenvolver o UI na versão desktop, e java Web Spring MVC para o desenvolvimento da aplicação Web.
@@ -12,17 +14,17 @@
     
       - Colocar aqui um exemplo do proceso : ....
       
-  -Modelação
+  - Modelação
     
     - Diagrama de casos de uso
     
-    -Caso de uso
+    - Caso de uso
     
-    -Contrato
+    - Contrato
     
-    -Diagrama de comunição
+    - Diagrama de comunição
     
-    -Diagrama de classe
+    - Diagrama de classe
   
   - Base de dados
   
@@ -38,7 +40,7 @@
   
   - Back-End
   
-  -Front-End
+  - Front-End
   
   -Conexão a Base de Dados
   
@@ -75,9 +77,11 @@
       - [ ] ...
       - [ ] ...
 - Relatorios
+
   - 1º Etapa
-  
+    - [a link](https://github.com/user/repo/blob/branch/other_file.md)
   - 2ª Etapa
+    - [a link](https://github.com/user/repo/blob/branch/other_file.md)
 - Avaliação 
 
   - 1º Etapa [17]
