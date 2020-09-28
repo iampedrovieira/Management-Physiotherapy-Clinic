@@ -43,7 +43,7 @@ Colocar aqui umas imagens dos resultados finais
     - Dicionario de dominio
  
   - Desenvolvimento do Software
-    Foram desenvolvidos 3 projetos, mv_project, c_ui_desktop_project e c_ui_web_project. No primeiro projeto estão todas as classes necessarias para o desenvolvimento do software e tambem é aqui que são feitas as conexções a base de dados, Model and Views. No dois restantes projetos esta o desenvolvimento das versões desktop e web ao nivel de controllers e user interface. Deste modo, foi possivel seguir o padrão Model-View-Controller, com os projetos c_ui_desktop_project e c_ui_web_project implementao o projeto mv_project.
+    Foram desenvolvidos 3 projetos,**mv_project**, **c_ui_desktop_project** e **c_ui_web_project**. No primeiro projeto estão todas as classes necessarias para o desenvolvimento do software e tambem é aqui que são feitas as conexções a base de dados, Model and Views. No dois restantes projetos esta o desenvolvimento das versões desktop e web ao nivel de controllers e user interface. Deste modo, foi possivel seguir o padrão **Model-View-Controller**, com os projetos c_ui_desktop_project e c_ui_web_project implementao o projeto mv_project.
     
     - mv_project
   
