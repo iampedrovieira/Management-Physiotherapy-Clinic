@@ -1,4 +1,4 @@
-# Management-Physiotherapy-Clinic
+# Physiotherapy-Clinic-Management
 
   Este projeto foi desenvolvido ao longo de Projeto I e Projeto II, dividindo-se em duas partes. 
   Na primeira parte, foi feito todo o levantamento de requisitos de um determinado negocio, neste caso uma clinica de fisioterapia, bem como toda a modelação do software em UML, com recurso a diagramas de casos de uso, casos de uso, contratos, diagramas de comunicação e diagrama de classes.Apos estas etapas foi feito uma base de dados desde dos modelos de Entidades e Relacionamentos até a criação da mesma em Oracle SQL.
