@@ -27,30 +27,34 @@ Colocar aqui umas imagens dos resultados finais
     - Diagrama de classe
   
   - Base de dados
-  
-    ewqeqeqwe
-    
+   
     - Modelos de Entidades e Relacionamentos
     
     - Script de criação da base de dados
     
 - 2º Etapa
 
+  - Ajuste na modelação feita na 1ª etapa
+    
+    - Lista de Requisitos Funcionais e Estruturais
+   
+    - Modelo de dominio
+    
+    - Dicionario de dominio
+ 
   - Desenvolvimento do Software
   
-  - Back-End
+    - Back-End
   
-  - Front-End
+    - Front-End
   
-  -Conexão a Base de Dados
+    - Conexão a Base de Dados
   
   - UI
   
     - Web
     
     - Desktop
-
-  - Manual de utilizador
   
   - Funcionalidades do Softwate
   
@@ -73,9 +77,12 @@ Colocar aqui umas imagens dos resultados finais
       - [ ] ...
       
     - Paciente
-      - [X] ...
-      - [ ] ...
-      - [ ] ...
+    
+      - [X] Cria conta
+      - [X] Fazer pedidos de consulta
+      - [X] Visualizar historico de consultas e pedidos de consulta
+      - [X] Visualizar estado de consultas e pedidos de consulta
+      
 - Relatorios
 
   - [1º Etapa](https://github.com/user/repo/blob/branch/other_file.md)
