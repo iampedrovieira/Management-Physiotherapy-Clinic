@@ -6,7 +6,7 @@ Colocar aqui umas imagens dos resultados finais
   Na primeira parte, foi feito todo o levantamento de requisitos de um determinado negocio, neste caso uma clinica de fisioterapia, bem como toda a modelação do software em UML, com recurso a diagramas de casos de uso, casos de uso, contratos, diagramas de comunicação e diagrama de classes.Apos estas etapas foi feito uma base de dados desde dos modelos de Entidades e Relacionamentos até a criação da mesma em Oracle SQL.
   Na segunda fase do projeto foi fazer o software desenhado anteriormente. O software foi desenvolvido em java, onde se utilizou java FX para desenvolver o UI na versão desktop, e java Web Spring MVC para o desenvolvimento da aplicação Web.
   
-## - 1º Etapa
+## 1º Etapa
 
   - Levantamento de requisitos
 
@@ -32,7 +32,7 @@ Colocar aqui umas imagens dos resultados finais
     
     - Script de criação da base de dados
     
-## - 2º Etapa
+## 2º Etapa
 
   - Ajuste na modelação feita na 1ª etapa
     
@@ -42,7 +42,7 @@ Colocar aqui umas imagens dos resultados finais
     
     - Dicionario de dominio
  
- ### - Desenvolvimento do Software
+  - Desenvolvimento do Software
   
     Foram desenvolvidos 3 projetos,**mv_project**, **c_ui_desktop_project** e **c_ui_web_project**. No primeiro projeto estão todas as classes necessarias para o desenvolvimento do software e tambem é aqui que são feitas as conexções a base de dados, Model and Views. No dois restantes projetos esta o desenvolvimento das versões desktop e web ao nivel de controllers e user interface. Deste modo, foi possivel seguir o padrão **Model-View-Controller**, com os projetos c_ui_desktop_project e c_ui_web_project implementao o projeto mv_project.
     
