@@ -10,12 +10,17 @@
   ![](/resultado/web_login.gif)
   
   - Desktop
-  
-  ![](/resultado/desktop_login.gif)
-  
-  ![](/resultado/desktop_fisioterapeuta.gif)
-  
-  ![](/resultado/desktio_rececionista.gif)
+    - Login
+    
+      ![](/resultado/desktop_login.gif)
+      
+    - Ambiente Fisioterapeuta
+    
+      ![](/resultado/desktop_fisioterapeuta.gif)
+      
+    - Ambiente Rececionista
+    
+      ![](/resultado/desktio_rececionista.gif)
   
   
 ## 1º Etapa
