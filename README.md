@@ -6,7 +6,7 @@
   
 ## Resultado
 
-![](name-of-giphy.gif)
+![](/resultado/desktio_rececionista.gif)
   
 ## 1º Etapa
 
