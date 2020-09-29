@@ -10,7 +10,7 @@
   - Desktop
   ![](/resultado/desktop_login.gif)
   ![](/resultado/desktop_fisioterapeuta.gif)
-  ![](/resultado/desktop_rececionista.gif)
+  ![](/resultado/desktio_rececionista.gif)
   
 ## 1º Etapa
 
