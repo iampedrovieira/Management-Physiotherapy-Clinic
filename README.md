@@ -1,10 +1,12 @@
 # Physiotherapy-Clinic-Management
 
-Colocar aqui umas imagens dos resultados finais
-
   Este projeto foi desenvolvido ao longo de Projeto I e Projeto II, dividindo-se em duas partes. 
   Na primeira parte, foi feito todo o levantamento de requisitos de um determinado negocio, neste caso uma clinica de fisioterapia, bem como toda a modelação do software em UML, com recurso a diagramas de casos de uso, casos de uso, contratos, diagramas de comunicação e diagrama de classes.Apos estas etapas foi feito uma base de dados desde dos modelos de Entidades e Relacionamentos até a criação da mesma em Oracle SQL.
   Na segunda fase do projeto foi fazer o software desenhado anteriormente. O software foi desenvolvido em java, onde se utilizou java FX para desenvolver o UI na versão desktop, e java Web Spring MVC para o desenvolvimento da aplicação Web.
+  
+## Resulado
+
+Colocar umas imagens/GIF do programa a funcionar
   
 ## 1º Etapa
 
@@ -47,17 +49,31 @@ Colocar aqui umas imagens dos resultados finais
     Foram desenvolvidos 3 projetos,**mv_project**, **c_ui_desktop_project** e **c_ui_web_project**. No primeiro projeto estão todas as classes necessarias para o desenvolvimento do software e tambem é aqui que são feitas as conexções a base de dados, Model and Views. No dois restantes projetos esta o desenvolvimento das versões desktop e web ao nivel de controllers e user interface. Deste modo, foi possivel seguir o padrão **Model-View-Controller**, com os projetos c_ui_desktop_project e c_ui_web_project implementao o projeto mv_project.
     
     - mv_project
-  
+    
+    Falar da DAL E BLL
+    
+    
     - c_ui_desktop_project
+    
     
     - c_ui_web_project
   
   
   - UI
+    
+    Falar de como foi criada a UI, todos os regras utilizadas 
   
     - Web
     
+      - Paciente
+    
     - Desktop
+    
+      - Gestor
+      
+      - Fisioterapeuta
+      
+      - Rececionista
   
   - Funcionalidades do Softwate
   
@@ -69,15 +85,27 @@ Colocar aqui umas imagens dos resultados finais
       
     - Fisioterapeuta
     
+      - [X] visualizar informações dos seus pacientes
+      - [X] introduzir relatórios no sistema
+      - [X] inicializar/encerrar tratamentos
+      - [ ] fazer pedidos de produtos que necessite
+      - [X] visualizar os pedidos de produtos
+      - [X] Marcar/cancelar/remarcar uma consulta
+      - [X] Visualizar o seu horario
+      - [X] Finalizar uma consulta
+      - [X] Adicionar um tratamento a uma consulta
       - [X] ...
-      - [ ] ...
-      - [ ] ...
+
       
     - Receionista
     
-      - [X] ...
-      - [ ] ...
-      - [ ] ...
+      - [X] pesquisar horários dos fisioterapeutas
+      - [X] criar conta a um novo paciente
+      - [X] fazer pagamentos
+      - [X] aceitar/rejeitar um pedido de marcação
+      - [X] visualizar pedidos de marcação
+      - [X] Marcar/cancelar/remarcar uma consulta
+      - [ ] receber encomendas
       
     - Paciente
     
