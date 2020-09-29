@@ -6,7 +6,7 @@
   
 ## Resultado
 
-Colocar umas imagens/GIF do programa a funcionar
+![](name-of-giphy.gif)
   
 ## 1º Etapa
 
