@@ -85,11 +85,11 @@ Colocar umas imagens/GIF do programa a funcionar
       
     - Fisioterapeuta
     
-      - [X] visualizar informações dos seus pacientes
-      - [X] introduzir relatórios no sistema
-      - [X] inicializar/encerrar tratamentos
-      - [ ] fazer pedidos de produtos que necessite
-      - [X] visualizar os pedidos de produtos
+      - [X] Visualizar informações dos seus pacientes
+      - [X] Introduzir relatórios no sistema
+      - [X] Inicializar/encerrar tratamentos
+      - [ ] Fazer pedidos de produtos que necessite
+      - [X] Visualizar os pedidos de produtos
       - [X] Marcar/cancelar/remarcar uma consulta
       - [X] Visualizar o seu horario
       - [X] Finalizar uma consulta
@@ -99,13 +99,13 @@ Colocar umas imagens/GIF do programa a funcionar
       
     - Receionista
     
-      - [X] pesquisar horários dos fisioterapeutas
-      - [X] criar conta a um novo paciente
-      - [X] fazer pagamentos
-      - [X] aceitar/rejeitar um pedido de marcação
-      - [X] visualizar pedidos de marcação
+      - [X] Pesquisar horários dos fisioterapeutas
+      - [X] Criar conta a um novo paciente
+      - [X] Fazer pagamentos
+      - [X] Aceitar/rejeitar um pedido de marcação
+      - [X] Visualizar pedidos de marcação
       - [X] Marcar/cancelar/remarcar uma consulta
-      - [ ] receber encomendas
+      - [ ] Receber encomendas
       
     - Paciente
     
