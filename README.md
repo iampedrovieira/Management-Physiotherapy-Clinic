@@ -6,11 +6,17 @@
   
 ## Resultado Final
   - Web 
+  
   ![](/resultado/web_login.gif)
+  
   - Desktop
+  
   ![](/resultado/desktop_login.gif)
+  
   ![](/resultado/desktop_fisioterapeuta.gif)
+  
   ![](/resultado/desktio_rececionista.gif)
+  
   
 ## 1º Etapa
 
