@@ -7,7 +7,7 @@
 ## Resultado Final
   - Web 
   
-  ![](/resultado/web_login.gif)
+    ![](/resultado/web_login.gif)
   
   - Desktop
     - Login
